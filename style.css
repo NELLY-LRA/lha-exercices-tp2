@@ -1,0 +1,64 @@
+/*************************************/
+          exercice 2
+/************************************/
+form{
+    font-family: Helvetica;
+    align-self: center;
+    margin-top: 100px;
+    width: 400px;
+}   
+input{
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 200px;
+}
+label{
+    width: 100px;
+}
+.envoi{
+    border: 2px solid blue;
+    background-color: yellowgreen;
+    width: 400px;
+    font-weight: bold;
+}
+/**************************************/
+            exercice 1
+/*************************************/
+body{
+    font-family: helvetica;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+.colr1{
+    color: green;
+}
+.title{
+    color: blue;
+}
+.para1{
+    color: red;
+}
+.para2{
+    color: purple;
+}   
+/*********************************/
+        exercice3
+/*********************************/
+table{
+    width: 70%;
+}
+td{
+    border: 1px solid black;
+    width: 40%;
+    height: 2px;
+    padding: 2%;
+}
+.lign{
+    background-color: coral;
+}
+.lign1{
+    background-color: coral;
+    color: wheat;
+}
